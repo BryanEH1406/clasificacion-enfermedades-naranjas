@@ -62,4 +62,5 @@ En esta carpeta se pueden almacenar:
 
 ## Autor
 
-BryanEH1406
+Bryan Espinoza
+Milton Robles
